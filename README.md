@@ -1,3 +1,38 @@
+# React Dropdown  🚀🚀
+
+## ⭐ Introduction
+
+This is a React Dropdown Project which is built using Reactjs ,CSS  , Bootstrap. It is responsive across all devices.
+<br/>
+<br/>
+
+## Features
+-On hovering of the button, show the drop down items.
+-The dropdown component should receive the items array to display the items in the list.
+- On click of an option in dropdown list, close the dropdown
+<br/>
+<br/>
+
+## Packages Install
+-react-bootstrap<br/>
+-bootstrap<br/>
+-react-icons<br/>
+
+
+
+
+## 🔗 Links
+> ## CheckOut the website link https://drop-down-reactjs.netlify.app/ 
+<br/>
+<br/>
+
+### 💻 Screens
+
+![Screenshot (234)](https://user-images.githubusercontent.com/102378038/228718464-f724950d-6910-4845-aa9c-67ec59af155a.png)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
